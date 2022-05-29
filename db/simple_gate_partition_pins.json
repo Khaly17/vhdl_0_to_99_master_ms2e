@@ -1,0 +1,101 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "main_segments[0]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments[1]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments[2]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments[3]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments[4]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments[5]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments[6]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "main_segments3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "main_clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
